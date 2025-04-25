@@ -1,6 +1,6 @@
 # bd1-gerador-arquivo-sql
 
-Este programa em Python foi desenvolvido para gerar um arquivo .sql, para ser mportado para um banco de dados MySQL. Ele cria N dados definido pelo usúario para popular e criar o banco de uma loja com as tabelas: clientes, produtos, pedidos e itens de um pedido. 
+Este programa em Python foi desenvolvido para gerar um arquivo .sql, para ser importado para um banco de dados MySQL. Ele cria N dados definido pelo usúario para popular e criar o banco de uma loja com as tabelas: clientes, produtos, pedidos e itens de um pedido. 
 
 ## Como usar
 
